@@ -1,4 +1,4 @@
-package com.example.pr18homyakov;
+package com.example.pr18fedotov;
 
 import android.graphics.Color;
 import android.os.Bundle;
